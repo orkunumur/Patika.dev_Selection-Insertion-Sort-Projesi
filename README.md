@@ -25,7 +25,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
    Aşama 2:
 [2,6,16,22,18,27]
 
-   Aşama 3:            
+   Aşama 3:
 [2,6,16,22,18,27]
 
    Aşama 4:
@@ -43,7 +43,7 @@ Dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
    Aşama 2:
 [2,3,4,8,7,9,5,15,6]	
 
-   Aşama 3:            
+   Aşama 3:
 [2,3,4,5,7,9,8,15,6]
 
    Aşama 4:
