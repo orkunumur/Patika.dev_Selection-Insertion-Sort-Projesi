@@ -21,10 +21,13 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 
    Aşama 1:
 [2,27,16,22,18,6]
+
    Aşama 2:
-[2,6,16,22,18,27]			  
+[2,6,16,22,18,27]
+
    Aşama 3:            
 [2,6,16,22,18,27]
+
    Aşama 4:
 [2,6,16,18,22,27] ---------> Big- O = O(n^2) ----> Time Complexity: Average Case
 
@@ -36,9 +39,12 @@ Dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
    Aşama 1:
 [2,3,5,8,7,9,4,15,6]
+
    Aşama 2:
-[2,3,4,8,7,9,5,15,6]			  
+[2,3,4,8,7,9,5,15,6]	
+
    Aşama 3:            
 [2,3,4,5,7,9,8,15,6]
+
    Aşama 4:
 [2,3,4,5,6,8,9,15,7]
